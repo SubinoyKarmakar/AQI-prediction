@@ -1,2 +1,2 @@
-# AQI-prediction
-ML-based AQI prediction using real-world environmental data.
+# Air Quality Index(AQI) prediction
+This project is a machine learning-based web application that predicts the Air Quality Index (AQI) using real-world environmental data. The application takes input values such as PM2.5, PM10, NO₂, CO, SO₂, and O₃ and provides a predicted AQI value along with a categorized air quality level (e.g., Good, Moderate, Unhealthy). The model is trained using historical pollution data and deployed using Flask for the backend. The user interface is built with HTML, CSS, and Bootstrap, ensuring a responsive and user-friendly experience. This project demonstrates the integration of machine learning with a web interface to provide real-time, meaningful insights on air quality.
